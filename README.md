@@ -166,12 +166,4 @@ Different model might have different strategies to manage context, so if you wan
   - [ehartford/WizardLM-Uncensored-Falcon-7b](https://huggingface.co/ehartford/WizardLM-Uncensored-Falcon-7b)
   - [ehartford/WizardLM-Uncensored-Falcon-40b](https://huggingface.co/ehartford/WizardLM-Uncensored-Falcon-40b)
 
-</details>
-
-## Todos
-
-- [X] Gradio components to control the configurations of the generation
-- [X] Multiple conversation management
-- [X] Internet search capability (by integrating ChromaDB, `intfloat/e5-large-v2`)
-- [ ] Implement server only option w/ FastAPI
 
