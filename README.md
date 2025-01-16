@@ -58,8 +58,6 @@ Use the `gradio.dstack.yml` and `discord.dstack.yml` configurations to run the G
 
 ### Discord Bot
 
-![](https://i.ibb.co/cJ3yDWh/2023-07-14-1-42-23.png)
-
 0. Prerequisites
 
     Note that the code only works `Python >= 3.9` 
