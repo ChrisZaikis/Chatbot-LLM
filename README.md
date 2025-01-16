@@ -1,6 +1,3 @@
-## UPDATE
-- **Internet search support**: you can enable **internet search** capability in Gradio application and Discord bot. For gradio, there is a `internet mode` option in the control panel. For discord, you need to specify `--internet` option in your prompt. For both cases, you need a Serper API Key which you can get one from [serper.dev](https://serper.dev/). By signing up, you will get free 2,500 free google searches which is pretty much sufficient for a long-term test.
-- **Discord Bot support**: you can serve any model from the model zoo as Discord Bot. Find how to do this in the instruction section below.
 
 # 💬🚀 LLM as a Chatbot Service
 
