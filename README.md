@@ -175,7 +175,3 @@ Different model might have different strategies to manage context, so if you wan
 - [X] Internet search capability (by integrating ChromaDB, `intfloat/e5-large-v2`)
 - [ ] Implement server only option w/ FastAPI
 
-## Acknowledgements
-
-- I am thankful to [Jarvislabs.ai](https://jarvislabs.ai/) who generously provided free GPU resources to experiment with Alpaca-LoRA deployment and share it to communities to try out.
-- I am thankful to [AI Network](https://www.ainetwork.ai) who generously provided A100(40G) x 8 DGX workstation for fine-tuning and serving the models.
